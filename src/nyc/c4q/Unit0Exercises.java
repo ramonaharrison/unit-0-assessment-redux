@@ -19,21 +19,21 @@ public class Unit0Exercises {
 
     public static void print() {
         // print out "I'm sorry Dave, I'm afraid I can't let you do that."
-        System.out.println("");
+        System.out.println("I'm sorry Dave, I'm afraid I can't let you do that.");
     }
 
-    public static Object returnPrimitiveBooleanFalse() {
-        return null;
+    public static boolean returnPrimitiveBooleanFalse() {
+        return false;
     }
 
-    public static Object returnPrimitiveInt55Plus44() {
-        return null;
+    public static int returnPrimitiveInt55Plus44() {
+        return 55 + 44;
     }
 
-    public static Object returnPrimitiveDouble2Point718() {
+    public static double returnPrimitiveDouble2Point718() {
         // This is the start of a famous mathematical constant.
         // What's that constant?
-        return null;
+        return 2.718;
     }
 
     public static Object returnPrimitiveCharASCII35() {
